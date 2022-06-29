@@ -13,7 +13,7 @@
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
-            <version>3.4.8</version>
+            <version>3.4.14</version>
         </dependency>
 
         <!-- 方法二：zkclient -->
